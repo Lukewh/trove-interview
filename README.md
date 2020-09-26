@@ -25,3 +25,9 @@ Useful Links:
 * https://medium.com/@prithvishetty/deploying-a-python-3-flask-app-into-aws-using-apache2-wsgi-1b26ed29c6c2
 * https://certbot.eff.org/lets-encrypt/ubuntufocal-apache
 * https://www.youtube.com/watch?v=Ng_zi11N4_c&t=148s&ab_channel=BeABetterDev
+
+For Production:
+------
+```
+export PROD_CONNECTION_STRING="mysql://{{username}}:{{password}}@trove-interview-2.coqr8ui6dees.us-west-1.rds.amazonaws.com:3306/trove"
+```
