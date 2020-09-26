@@ -82,7 +82,7 @@
       }
 
       var options = {
-          title:'Equity Grant by Gender',
+          title:'Compensation By Division',
           height: 500,
           legend: {position: 'none'},
           hAxis: {
