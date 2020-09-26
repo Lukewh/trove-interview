@@ -1,7 +1,15 @@
 from flask import Flask, render_template
 from flask import jsonify
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+import os
 
 app = Flask(__name__, static_url_path='', static_folder='static')
+
+engine = create_engine(os.environ['PROD_CONNECTION_STRING'])
+conn = engine.connect()
+session_maker = sessionmaker(bind=engine)
+session = session_maker()
 
 @app.route('/')
 def hello_world():
@@ -9,20 +17,30 @@ def hello_world():
 
 @app.route('/gender_analysis')
 def get_gender_analysis():
-    data = [
-        ['Engineering', 100, 90, 110, 60, 96, 104, 120],
-        ['Android', 120, 95, 130, 90, 113, 124, 140],
-        ['Sales', 130, 105, 140, 100, 117, 133, 139],
-        ['Accounting', 90, 85, 95, 85, 88, 92, 95],
-        ['Product Marketing', 70, 74, 63, 67, 69, 70, 72],
-        ['Strategy', 30, 39, 22, 21, 28, 34, 40],
-        ['Finance', 80, 77, 83, 70, 77, 85, 90],
-        ['Web', 100, 90, 110, 85, 95, 102, 110]
-      ]
-
+    data = get_salary_data()
     return jsonify(data)
+
+def get_salary_data():
+    raw_data = conn.execute(
+        '''
+        select ed.eid, ed.gender, ed.name, sh.salary, ed.division, sh.date
+        from employee_directory ed inner join salary_history sh on ed.eid = sh.eid
+        group by ed.eid, ed.name, sh.salary, ed.division, sh.date order by sh.date desc
+        limit 100;
+        '''
+    )
+
+    by_division = {}
+
+    for eid, gender, name, salary, division, date  in raw_data:
+        value = by_division.get(division, [])
+        value.append(salary)
+
+        by_division[division] = value
+
+    flattened = [(k, *v) for k,v in by_division.items()]
+    return flattened
 
 
 if __name__ == "__main__":
     app.run()
-

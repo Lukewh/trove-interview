@@ -1,0 +1,501 @@
+eid,name,gender,hire_date,department,division,job_code,manager,performance,annual_benefits_value
+1,Osvald Swordshield,M,12/8/17,SG&A,HR,R9,Ketil Silverdrowner,Redefines,9471
+2,Hrani Wyvernstinker,F,11/19/18,SG&A,HR,R6,Hildir Iceberglicker,Exceeds,9417
+3,Throst Haggissniffer,F,11/10/19,Engineering,Android,R5,Valgaror Bergbuilder,Meets,12836
+4,Prondir Sevenwasher,F,12/30/17,SG&A,Accounting,R8,Glumr Maelstromliker,Meets,10942
+5,Gisli Macekiller,M,2/20/20,Engineering,iOS,R3,Torix Tonguehall,Exceeds,13685
+6,Thangbrand Coffeesucker,F,10/3/19,Marketing & Sales,Sales,R5,Vali Silvertosser,Improvement needed,14437
+7,Waltheof Ravenbender,F,11/29/17,SG&A,Finance,R10,Vigfus Kelpwielder,Exceeds,14202
+8,Prondir Bloodgrower,F,7/2/17,Design,Product,R4,Prondir Bloodgrower,Exceeds,10659
+9,Thrain Lightbone,F,11/6/19,Marketing & Sales,Product Marketing,R8,Vali Womandancer,Exceeds,16791
+10,Herjolfr Forkadmirer,M,11/14/19,SG&A,HR,R5,Thrain Lightbone,Improvement needed,12124
+11,Arinbjorn Hornborn,F,3/10/17,Marketing & Sales,Sales,R10,Herjolfr Wavesinger,Improvement needed,13450
+12,Baror Kettleboot,M,1/13/18,Design,Marketing,R9,Bjarni Foxgrower,Exceeds,10874
+13,Vali Silvertosser,F,6/14/18,SG&A,Accounting,R6,Erik Elkborer,Meets,9419
+14,Thjodoft Sevenbreaker,F,1/15/20,Marketing & Sales,Sales,R1,Einarr Muttonsword,Redefines,11584
+15,Henrik Twohead,F,4/25/17,Design,Marketing,R10,Vigfus Kelpwielder,Improvement needed,12770
+16,Herjolfr Wavesinger,M,2/19/20,SG&A,Finance,R2,Alvi Beararm,Redefines,14380
+17,Ari Wyvernbreeder,F,2/23/18,Design,Strategy,R4,Arinbjorn Biscuitdrowner,Exceeds,15244
+18,Fromund Horncollar,M,4/17/19,SG&A,Finance,R5,Throst Flourwisher,Meets,12382
+19,Throst Flourwisher,M,1/8/19,Engineering,Android,R9,Gorm Refreshingbeveragebringer,Exceeds,13229
+20,Ketil Silverdrowner,F,11/29/17,Engineering,Web,R5,Ari Wyvernbreeder,Redefines,16211
+21,Kolbeinn Biscuitgrowth,F,1/1/20,Marketing & Sales,Sales,R3,Osvald Swordshield,Improvement needed,12846
+22,Hrani Tonguesequel,F,5/5/19,Design,Marketing,R3,Erik Elkborer,Improvement needed,15504
+23,Glumr Maelstromliker,F,8/17/19,SG&A,Finance,R4,Osvald Swordshield,Redefines,16334
+24,Surt Haggisrhyme,M,3/9/17,Engineering,Web,R5,Geri Bladedoubter,Meets,15286
+25,Hallvard Unsightlytosser,F,5/27/17,SG&A,HR,R4,Kheldar Shieldbuilder,Improvement needed,10056
+26,Vigfus Kelpwielder,M,12/30/17,SG&A,Accounting,R2,Ari Wyvernbreeder,Meets,12244
+27,Valgaror Bergbuilder,M,11/7/19,SG&A,HR,R5,Hrani Wyvernstinker,Improvement needed,12579
+28,Hildir Iceberglicker,M,9/19/17,Engineering,Android,R4,Halbjorn Bluelicker,Redefines,13568
+29,Ivarr Sevenrage,F,5/12/18,Engineering,iOS,R2,Osvald Swordshield,Meets,10659
+30,Geri Bladedoubter,M,4/26/17,Marketing & Sales,Product Marketing,R1,Surt Haggisrhyme,Redefines,16350
+31,Torix Tonguehall,F,8/5/17,Marketing & Sales,Sales,R8,Kolbeinn Biscuitgrowth,Exceeds,15462
+32,Vigfus Horndancer,M,10/3/19,SG&A,Accounting,R7,Moldof Bearhands,Improvement needed,9664
+33,Hogni Deathroarer,F,7/30/19,Engineering,Android,R6,Waltheof Ravenbender,Redefines,10979
+34,Arinbjorn Biscuitdrowner,M,8/18/19,Engineering,Android,R2,Throst Flourwisher,Improvement needed,11718
+35,Eyvind Seahammer,F,10/4/19,SG&A,Accounting,R1,Prondir Bloodgrower,Meets,15927
+36,Gjafvaldr Swinehacker,M,2/8/17,Marketing & Sales,Sales,R6,Eyvind Seahammer,Exceeds,9459
+37,Helgi Frostbow,F,9/10/19,SG&A,Accounting,R9,Prondir Sevenwasher,Improvement needed,14879
+38,Arngrim Womanchiller,F,2/19/19,Engineering,iOS,R2,Glumr Foxkiller,Redefines,13009
+39,Glumr Foxkiller,F,5/30/17,Engineering,Android,R1,Alvi Beararm,Exceeds,11730
+40,Saemund Runeliker,F,7/29/18,Design,Marketing,R7,Saemund Runeliker,Meets,13033
+41,Erik Elkborer,M,10/21/19,Engineering,Android,R9,Vali Silvertosser,Exceeds,9418
+42,Alvi Beararm,M,1/2/20,Engineering,Web,R5,Ari Wyvernbreeder,Redefines,15036
+43,Gorm Refreshingbeveragebringer,F,11/14/17,Engineering,Web,R3,Bjarni Foxgrower,Exceeds,9102
+44,Moldof Bearhands,M,10/23/18,Engineering,iOS,R9,Thjodoft Sevenbreaker,Improvement needed,15819
+45,Vali Womandancer,M,1/3/20,Design,Strategy,R10,Kheldar Shieldbuilder,Redefines,15423
+46,Alfr Skyarm,F,12/8/18,Design,Product,R1,Surt Haggisrhyme,Redefines,14950
+47,Einarr Muttonsword,M,2/26/19,Marketing & Sales,Product Marketing,R6,Eyvind Seahammer,Redefines,14348
+48,Kheldar Shieldbuilder,F,3/5/19,Marketing & Sales,Product Marketing,R2,Hrani Wyvernstinker,Improvement needed,15940
+49,Halbjorn Bluelicker,M,11/13/17,Marketing & Sales,Product Marketing,R6,Arngrim Womanchiller,Redefines,9771
+50,Bjarni Foxgrower,M,3/1/17,Design,Product,R5,Vigfus Horndancer,Redefines,16653
+51,Klaengr Eggminer,F,3/26/19,Engineering,Android,R8,Glumr Foxkiller,Improvement needed,9216
+52,Jon Godtongue,F,12/29/18,Engineering,Web,R4,Torix Tonguehall,Improvement needed,14476
+53,Borkr Oathshoe,F,1/23/17,SG&A,Finance,R4,Arinbjorn Biscuitdrowner,Improvement needed,16069
+54,Kolli Bergbearer,F,6/26/17,Marketing & Sales,Product Marketing,R2,Saemund Runeliker,Improvement needed,15400
+55,Alvi Foxfoot,F,12/28/17,SG&A,HR,R4,Saemund Runeliker,Improvement needed,12105
+56,Ketil Rabbitgrower,F,7/10/17,SG&A,HR,R10,Surt Haggisrhyme,Improvement needed,15110
+57,Thorvald Painroller,F,5/16/19,Design,Strategy,R4,Kheldar Shieldbuilder,Exceeds,16127
+58,Prondir Cagebearer,F,12/14/17,Engineering,Android,R5,Vali Silvertosser,Improvement needed,12797
+59,nar Tongueleg,M,11/4/18,Design,Strategy,R5,Hrani Tonguesequel,Meets,11314
+60,Vika Bladeroarer,M,10/27/18,SG&A,Accounting,R3,Valgaror Bergbuilder,Meets,14175
+61,Thorgest Sevenminder,F,9/30/19,Marketing & Sales,Product Marketing,R1,Prondir Bloodgrower,Improvement needed,12071
+62,Knut Codehand,M,3/20/18,Marketing & Sales,Sales,R7,Vali Silvertosser,Redefines,11936
+63,Siegfried Eggface,M,7/14/19,SG&A,Finance,R10,Arinbjorn Biscuitdrowner,Meets,11191
+64,Hrolf Codewielder,F,6/26/19,Marketing & Sales,Product Marketing,R8,Thrain Lightbone,Improvement needed,9063
+65,Osvald Helmhall,F,6/30/19,Engineering,iOS,R3,Eyvind Seahammer,Improvement needed,14344
+66,Ulf Flameborer,F,1/28/20,SG&A,HR,R9,Hrani Wyvernstinker,Meets,12008
+67,Arngrim Runehand,F,3/20/18,Engineering,Web,R4,Arinbjorn Hornborn,Meets,13816
+68,Throst Womanroarer,M,3/30/19,Marketing & Sales,Sales,R7,Kolbeinn Biscuitgrowth,Exceeds,13429
+69,Torfi Unsightlysucker,M,3/31/18,Engineering,Web,R2,Hallvard Unsightlytosser,Redefines,14269
+70,Kolbeinn Onehall,M,2/19/17,Design,Product,R9,Saemund Runeliker,Meets,15749
+71,nar Hallbreeder,F,6/10/17,Marketing & Sales,Sales,R1,Gisli Macekiller,Meets,14919
+72,Bjorn Dragonbringer,M,3/11/18,Design,Strategy,R2,Vigfus Kelpwielder,Redefines,15937
+73,Siegfried Forgelicker,M,2/9/18,Design,Marketing,R8,Alvi Beararm,Meets,14077
+74,Waltheof Manybender,F,1/15/19,Engineering,Android,R6,Hrani Tonguesequel,Redefines,11759
+75,Kalf Threebleeder,F,9/2/19,SG&A,Accounting,R6,Hrani Wyvernstinker,Meets,13870
+76,An Kelpdrowner,F,3/12/17,SG&A,Accounting,R7,Kolbeinn Biscuitgrowth,Improvement needed,14792
+77,Arngeir Godslinger,M,2/18/18,Design,Strategy,R6,Henrik Twohead,Meets,13090
+78,Vika Cavelost,F,4/1/20,SG&A,Finance,R3,Halbjorn Bluelicker,Redefines,12488
+79,Thjodoft Redhands,F,10/20/18,Engineering,Web,R7,Einarr Muttonsword,Meets,11498
+80,Surt Sapshoe,F,6/1/19,Design,Product,R7,Halbjorn Bluelicker,Meets,16192
+81,Thorvald Rockgrower,F,10/7/17,SG&A,Accounting,R1,Osvald Swordshield,Redefines,13767
+82,Hrani Spearlicker,F,4/12/19,SG&A,Finance,R2,Hogni Deathroarer,Redefines,16732
+83,Finnr Seakiller,M,5/3/19,Design,Marketing,R2,Einarr Muttonsword,Redefines,15739
+84,Arngrim Mailtosser,M,4/23/18,Marketing & Sales,Advertising,R10,Osvald Swordshield,Redefines,14608
+85,Borkr Pottail,F,7/11/19,Marketing & Sales,Advertising,R8,Torix Tonguehall,Redefines,16942
+86,Gisli Chainstinker,M,1/30/18,Engineering,Android,R10,Ari Wyvernbreeder,Meets,10832
+87,Gunnarr Meadbow,F,3/1/19,Marketing & Sales,Advertising,R1,Thangbrand Coffeesucker,Redefines,16534
+88,Bard Godbreeder,M,3/8/20,SG&A,Accounting,R9,Vali Womandancer,Redefines,11460
+89,Kheldar Longaxe,F,5/21/17,Design,Product,R7,Moldof Bearhands,Exceeds,9209
+90,Kollr Codethigh,M,4/11/17,Marketing & Sales,Advertising,R5,Hogni Deathroarer,Exceeds,15292
+91,Thorod Bluespeaker,F,1/17/20,Marketing & Sales,Product Marketing,R5,Arngrim Womanchiller,Exceeds,15910
+92,Gisli Furnacebane,F,2/12/19,SG&A,HR,R4,Glumr Foxkiller,Meets,14265
+93,Sigurd Umlautrage,F,5/15/17,SG&A,Finance,R5,Vali Womandancer,Redefines,14785
+94,Tryfing Coffeethigh,F,8/18/18,Marketing & Sales,Sales,R5,Torix Tonguehall,Redefines,10986
+95,Skomlr Manyrider,M,2/26/19,Marketing & Sales,Sales,R9,Gjafvaldr Swinehacker,Improvement needed,9923
+96,Hedinn Muttoncounter,M,7/21/18,Engineering,iOS,R5,Baror Kettleboot,Redefines,12944
+97,Ivarr Goldfearer,F,4/14/17,Marketing & Sales,Product Marketing,R6,Herjolfr Forkadmirer,Meets,11638
+98,Ormr Ratlost,F,9/15/18,Engineering,iOS,R1,Hogni Deathroarer,Meets,13633
+99,Hogni Boarlover,M,1/20/20,Design,Product,R9,Vali Womandancer,Redefines,14059
+100,Halbjorn Foxmaker,F,4/2/19,Engineering,Android,R8,Fromund Horncollar,Redefines,15892
+101,Ozurr Frostpuncher,F,1/4/20,Engineering,Web,R7,Hildir Iceberglicker,Exceeds,10599
+102,Snorri Hallbearer,F,7/14/18,SG&A,HR,R2,Gjafvaldr Swinehacker,Improvement needed,11744
+103,Arnfinn Glacierchaser,F,3/3/17,SG&A,Finance,R1,Thangbrand Coffeesucker,Improvement needed,12691
+104,Henrik Swordgrowth,F,10/13/19,SG&A,Finance,R1,Glumr Foxkiller,Redefines,9190
+105,Hallvard Swinerage,F,11/13/17,Design,Marketing,R1,Gisli Macekiller,Improvement needed,11884
+106,Siegfried Caveslugger,F,7/2/18,Marketing & Sales,Advertising,R8,Torix Tonguehall,Exceeds,10471
+107,Hrolf Egghacker,M,12/30/19,Marketing & Sales,Product Marketing,R9,Halbjorn Bluelicker,Redefines,9700
+108,Vika Icebergarm,F,12/30/17,Marketing & Sales,Product Marketing,R5,Thangbrand Coffeesucker,Meets,11725
+109,Moldof Longringer,M,7/30/17,Marketing & Sales,Advertising,R2,Baror Kettleboot,Exceeds,11549
+110,Oddr Krakendeck,F,4/29/18,SG&A,Accounting,R5,Moldof Bearhands,Exceeds,15211
+111,Erik Houseear,F,8/13/19,SG&A,HR,R4,Halbjorn Bluelicker,Improvement needed,12283
+112,Osvald Peakchaser,F,10/2/19,Engineering,Web,R7,Kolbeinn Biscuitgrowth,Exceeds,15513
+113,Herbjorn Squidtongue,M,10/19/18,Design,Strategy,R7,Bjarni Foxgrower,Meets,14371
+114,Harek Seventaster,F,4/26/17,Engineering,iOS,R10,Hrani Tonguesequel,Redefines,15408
+115,Gjafvaldr Huskarldreamer,F,3/21/20,Engineering,Android,R6,Thrain Lightbone,Redefines,9647
+116,Lambi Rootroller,M,12/3/17,Marketing & Sales,Sales,R5,Hogni Deathroarer,Improvement needed,15775
+117,Torix Fireringer,F,11/11/19,Design,Strategy,R5,Henrik Twohead,Exceeds,16737
+118,Gisli Refreshingbeveragesucker,F,7/26/19,SG&A,HR,R9,Prondir Bloodgrower,Improvement needed,15281
+119,Thrain Runemaker,M,9/10/17,Marketing & Sales,Product Marketing,R2,Arinbjorn Biscuitdrowner,Meets,16309
+120,Mursi Swordhammer,F,7/13/18,SG&A,Accounting,R4,Gjafvaldr Swinehacker,Meets,13036
+121,Poror Glacierminer,M,5/17/17,Engineering,Android,R1,Hrani Tonguesequel,Exceeds,10330
+122,Einarr Smokesequel,F,1/26/19,Marketing & Sales,Product Marketing,R7,Surt Haggisrhyme,Exceeds,15807
+123,Thorod Griffoneater,M,7/20/17,Design,Strategy,R4,Ivarr Sevenrage,Meets,14020
+124,Thorgest Ulfsarkface,F,6/28/18,SG&A,Finance,R7,Prondir Sevenwasher,Redefines,9384
+125,Vifil Blacktamer,M,3/16/19,Engineering,iOS,R4,Arngrim Womanchiller,Redefines,10568
+126,Erik Umlautchaser,M,10/26/18,Design,Marketing,R7,Vigfus Kelpwielder,Redefines,9394
+127,Kheldar Steamhilt,F,10/11/18,Marketing & Sales,Product Marketing,R5,Vigfus Kelpwielder,Redefines,11208
+128,Asgeirr Swordhall,F,1/30/20,Design,Product,R1,Gisli Macekiller,Exceeds,9076
+129,nar Wavelost,F,2/2/17,SG&A,Accounting,R5,Henrik Twohead,Redefines,11824
+130,Helgi Shiprider,F,1/14/20,SG&A,HR,R4,Moldof Bearhands,Meets,11610
+131,Sokkolf Goldpuncher,M,6/17/19,Marketing & Sales,Sales,R9,Glumr Foxkiller,Meets,15243
+132,Ketil Battlelover,F,11/3/19,SG&A,HR,R9,Hrani Wyvernstinker,Redefines,13697
+133,Saemund Krakenbuilder,F,1/29/19,Marketing & Sales,Advertising,R3,Halbjorn Bluelicker,Redefines,13675
+134,An Godborer,M,5/17/19,Engineering,Web,R4,Geri Bladedoubter,Exceeds,15747
+135,Thjodoft Icebergrider,F,5/26/18,Design,Product,R6,Helgi Frostbow,Redefines,14415
+136,Ozurr Torchliker,F,2/19/18,Engineering,iOS,R7,Herjolfr Wavesinger,Meets,10681
+137,Kalf Glacierhilt,F,9/3/17,SG&A,HR,R7,Vali Womandancer,Meets,12934
+138,Thangbrand Griffontamer,F,2/8/17,Design,Product,R1,Waltheof Ravenbender,Exceeds,10685
+139,Ornolf Hornkiller,F,8/26/18,Marketing & Sales,Product Marketing,R8,Torix Tonguehall,Exceeds,10938
+140,Skomlr Grimborer,M,5/23/18,SG&A,Accounting,R9,Vali Silvertosser,Redefines,13534
+141,Bjorn Wolfgorer,F,4/16/17,SG&A,Accounting,R3,Arinbjorn Biscuitdrowner,Redefines,11742
+142,Slode Longroller,M,8/23/18,SG&A,Finance,R9,Hrani Tonguesequel,Exceeds,15451
+143,Geirmundr Ravenneck,M,3/5/20,SG&A,Accounting,R2,Herjolfr Wavesinger,Meets,15903
+144,Klaengr Aesirdottir,M,9/25/19,Design,Strategy,R9,Ari Wyvernbreeder,Exceeds,9937
+145,Bjorn Rockskinner,M,4/25/19,Engineering,iOS,R6,Arngrim Womanchiller,Improvement needed,14927
+146,Floki Goatface,F,5/20/19,SG&A,Finance,R8,Geri Bladedoubter,Meets,13876
+147,Canute Cagefearer,M,1/17/17,SG&A,HR,R6,Glumr Foxkiller,Exceeds,12720
+148,Sigvat Eelwrath,F,9/19/19,SG&A,HR,R8,Arinbjorn Biscuitdrowner,Exceeds,10554
+149,Gjafvaldr Maelstromsinger,F,1/28/17,Marketing & Sales,Advertising,R5,Fromund Horncollar,Meets,15709
+150,Baror Macehacker,F,11/29/19,Marketing & Sales,Product Marketing,R3,Halbjorn Bluelicker,Meets,12060
+151,Glumr Jarlarm,M,8/15/19,Design,Marketing,R2,Kolbeinn Biscuitgrowth,Improvement needed,16593
+152,Hildir Longhand,F,7/8/17,SG&A,HR,R5,Einarr Muttonsword,Redefines,9574
+153,Torfi Krakenroller,F,11/19/18,Engineering,iOS,R10,Henrik Twohead,Exceeds,14949
+154,Guomundr Skybender,M,9/21/17,Engineering,Android,R10,Gjafvaldr Swinehacker,Improvement needed,10596
+155,Sven Giantchaser,F,3/30/19,Engineering,Web,R10,Valgaror Bergbuilder,Redefines,9163
+156,Sigvat Forgeslinger,F,11/25/17,SG&A,HR,R4,Hogni Deathroarer,Exceeds,14877
+157,Thangbrand Lightfury,M,3/13/20,SG&A,Accounting,R1,Hildir Iceberglicker,Improvement needed,10769
+158,Eyvind Maildottir,F,8/14/17,Design,Marketing,R7,Moldof Bearhands,Redefines,15735
+159,Einarr Fjordborer,F,1/19/19,Engineering,iOS,R7,Henrik Twohead,Meets,10792
+160,Baror Lakekiller,M,4/14/18,Marketing & Sales,Product Marketing,R5,Geri Bladedoubter,Redefines,10283
+161,Vika Hamarrbasher,F,1/29/18,Design,Marketing,R10,Glumr Maelstromliker,Exceeds,14796
+162,Arnfinn Goatwrath,M,5/11/18,Engineering,iOS,R2,Alvi Beararm,Exceeds,12084
+163,Hrani Twoshoe,M,1/9/19,Marketing & Sales,Sales,R3,Osvald Swordshield,Redefines,16465
+164,Orlyg Dwarfbender,F,2/16/19,Marketing & Sales,Product Marketing,R8,Kheldar Shieldbuilder,Redefines,12020
+165,Hrolf Coffeebreeder,M,7/27/18,Marketing & Sales,Advertising,R7,Erik Elkborer,Improvement needed,14456
+166,Halbjorn Fjordmocker,M,8/13/18,Design,Marketing,R4,Kheldar Shieldbuilder,Exceeds,15045
+167,Bjarni Jarlboot,M,6/24/18,Engineering,iOS,R7,Geri Bladedoubter,Improvement needed,11277
+168,Thrain Iciclethigh,M,1/26/18,SG&A,Finance,R4,Vali Womandancer,Improvement needed,9508
+169,Geirmundr Womanwrath,F,7/8/18,Engineering,Android,R7,Torix Tonguehall,Exceeds,14853
+170,Eyvindr Ravenfearer,M,3/16/20,Design,Product,R2,Geri Bladedoubter,Redefines,13937
+171,Grmir Huskarlboiler,F,5/30/19,Design,Marketing,R4,Gorm Refreshingbeveragebringer,Exceeds,10417
+172,Arinbjorn Meadgrower,M,11/25/17,Design,Product,R9,Gorm Refreshingbeveragebringer,Exceeds,13389
+173,Moldof Eelgorer,M,12/15/18,Engineering,Web,R1,Glumr Foxkiller,Redefines,13400
+174,Knut Bearbender,M,8/19/19,Engineering,Web,R2,Gisli Macekiller,Improvement needed,16153
+175,Ketil Refreshingbeveragechiller,F,12/25/17,Engineering,iOS,R9,Valgaror Bergbuilder,Improvement needed,11991
+176,Thangbrand Cloudsinger,F,1/28/18,Design,Product,R3,Vali Silvertosser,Redefines,16289
+177,Einarr Bearblender,F,10/7/19,Engineering,iOS,R8,Osvald Swordshield,Exceeds,9874
+178,Brandr Runebleeder,F,6/28/17,Marketing & Sales,Advertising,R6,Gisli Macekiller,Exceeds,16200
+179,Orlyg Womanrhyme,F,3/20/17,Engineering,iOS,R1,Hildir Iceberglicker,Improvement needed,10845
+180,Magnus Bluehunter,F,3/16/20,Engineering,iOS,R10,Hrani Tonguesequel,Meets,12407
+181,Alfr Peakbleeder,M,5/18/19,SG&A,Accounting,R8,Ketil Silverdrowner,Redefines,10056
+182,Poror Hamarrbrow,F,4/14/18,Engineering,Web,R8,Alvi Beararm,Exceeds,10632
+183,Finnr Whitestinker,F,7/29/18,Engineering,iOS,R3,Vigfus Horndancer,Redefines,9716
+184,Hallvard Hornmonger,F,7/18/17,SG&A,Finance,R9,Erik Elkborer,Exceeds,13755
+185,Arngeir Umlautsailor,M,8/19/17,SG&A,HR,R2,Arinbjorn Hornborn,Improvement needed,12564
+186,Hrolf Flamewisher,F,2/8/19,Design,Marketing,R1,Vali Silvertosser,Improvement needed,13908
+187,Bjarni Forgeblood,F,3/17/17,Design,Strategy,R3,Valgaror Bergbuilder,Improvement needed,15463
+188,Surt Pinefearer,F,6/13/17,Design,Product,R7,Herjolfr Forkadmirer,Meets,14454
+189,Gunnarr Deathblender,F,2/18/19,Marketing & Sales,Sales,R10,Eyvind Seahammer,Meets,12555
+190,Skomlr Mammothtaster,M,2/12/18,Engineering,iOS,R3,Vigfus Kelpwielder,Redefines,11025
+191,Dar Rootsinger,M,1/7/18,Engineering,Web,R7,Glumr Foxkiller,Redefines,10598
+192,Slode Stormback,F,1/22/19,Design,Product,R3,Prondir Sevenwasher,Meets,16086
+193,Slode Bearmaker,M,1/19/19,Marketing & Sales,Product Marketing,R10,Throst Flourwisher,Exceeds,12813
+194,Borkr Onerider,F,4/15/17,Design,Strategy,R8,Thangbrand Coffeesucker,Redefines,16474
+195,Tryfing Dwarfbeard,M,12/22/19,Design,Strategy,R1,Throst Haggissniffer,Redefines,15867
+196,Ivarr Manbrow,F,12/13/19,Design,Product,R9,Throst Flourwisher,Exceeds,16908
+197,Arngrim Glacierborn,F,3/24/18,SG&A,HR,R7,Hogni Deathroarer,Meets,12182
+198,Ulf Trollcollar,F,10/25/19,Marketing & Sales,Product Marketing,R1,Arngrim Womanchiller,Meets,12718
+199,Einarr Wormshoe,M,4/9/19,SG&A,HR,R2,Gisli Macekiller,Improvement needed,9735
+200,Torix Umlautfriend,F,6/8/18,Engineering,Android,R7,Alfr Skyarm,Improvement needed,14179
+201,Hamal Ironbreaker,M,6/18/19,Engineering,Android,R3,Vigfus Horndancer,Improvement needed,16438
+202,Herbjorn Cheesebleeder,F,12/31/19,Design,Product,R2,Henrik Twohead,Meets,13112
+203,Gisli Furnacehacker,M,7/27/19,Design,Marketing,R7,Geri Bladedoubter,Exceeds,11471
+204,Harek Mammothpuncher,M,2/7/20,SG&A,Finance,R10,Hildir Iceberglicker,Meets,16043
+205,Vali Skyshield,F,3/13/17,Marketing & Sales,Sales,R3,Vigfus Horndancer,Redefines,13520
+206,Jimmy Deathblood,F,6/30/18,Engineering,Web,R4,Glumr Foxkiller,Improvement needed,10291
+207,Herbjorn Iciclearm,F,4/1/19,Engineering,iOS,R5,Kolbeinn Biscuitgrowth,Improvement needed,15401
+208,Kolbeinn Wavetamer,F,8/26/18,Marketing & Sales,Product Marketing,R8,Kolbeinn Biscuitgrowth,Exceeds,15677
+209,Klaengr Pineborer,M,12/2/19,SG&A,Finance,R5,Eyvind Seahammer,Meets,12595
+210,Poror Horselover,F,1/2/17,Marketing & Sales,Product Marketing,R3,Helgi Frostbow,Exceeds,16913
+211,Thorvald Ringstinker,F,11/6/18,Design,Product,R7,Vigfus Kelpwielder,Exceeds,9912
+212,Ketil Torchdeck,F,2/18/19,Design,Marketing,R4,Arinbjorn Biscuitdrowner,Improvement needed,12516
+213,Solvi Tonguebaker,F,5/13/18,Engineering,Web,R8,Vali Silvertosser,Meets,10501
+214,Askell Jarlblood,F,3/22/20,Engineering,Android,R5,Hrani Wyvernstinker,Exceeds,15085
+215,Geri Cagetaster,F,1/21/17,Design,Product,R9,Gorm Refreshingbeveragebringer,Exceeds,10054
+216,Alvi Furnaceliker,M,1/29/19,Engineering,Web,R9,Thangbrand Coffeesucker,Redefines,12204
+217,Floki Potwrath,F,1/3/17,Engineering,Web,R5,Einarr Muttonsword,Redefines,13142
+218,Ragnvald Grimslugger,M,1/11/18,Engineering,Web,R5,Erik Elkborer,Redefines,16875
+219,Olaf Boneshoe,M,12/4/19,Marketing & Sales,Product Marketing,R7,Ketil Silverdrowner,Exceeds,9846
+220,Ulf Ringhands,F,5/17/19,Design,Product,R9,Halbjorn Bluelicker,Exceeds,12588
+221,Arngrim Battledancer,M,5/15/17,Design,Marketing,R2,Vali Womandancer,Meets,16205
+222,Kollr Firecurser,F,1/5/20,SG&A,HR,R6,Thangbrand Coffeesucker,Redefines,16205
+223,Vifil Umlauthead,F,8/25/18,SG&A,Finance,R1,Arngrim Womanchiller,Exceeds,16606
+224,Baror Battledrinker,F,5/29/17,Marketing & Sales,Sales,R10,Vali Silvertosser,Meets,11127
+225,Jon Trollslugger,M,12/9/17,Engineering,Web,R1,Kheldar Shieldbuilder,Improvement needed,15048
+226,Thjodoft Owlsailor,F,8/28/18,SG&A,Finance,R7,Vigfus Kelpwielder,Exceeds,14946
+227,Henrik Bluerhyme,F,6/28/18,Marketing & Sales,Advertising,R1,Bjarni Foxgrower,Exceeds,11216
+228,Saemund Kettletracker,M,5/28/19,Engineering,iOS,R2,Saemund Runeliker,Exceeds,13965
+229,Klaengr Griffonbane,F,2/19/20,Marketing & Sales,Product Marketing,R3,Kheldar Shieldbuilder,Exceeds,10998
+230,Egill Bloodleg,F,6/26/19,Design,Marketing,R10,Halbjorn Bluelicker,Redefines,14222
+231,Alvi Cheeseroarer,F,3/6/20,Engineering,iOS,R9,Saemund Runeliker,Meets,13412
+232,Arinbjorn Bloodtail,F,6/2/19,Engineering,Android,R10,Vigfus Horndancer,Meets,9678
+233,Vigfus Boargrower,M,7/15/18,SG&A,Accounting,R5,Osvald Swordshield,Redefines,11004
+234,Kollr Salmonkiller,F,4/30/19,Marketing & Sales,Product Marketing,R2,Thrain Lightbone,Improvement needed,9198
+235,Ragi Wolfsinger,F,5/1/18,Marketing & Sales,Sales,R10,Herjolfr Forkadmirer,Improvement needed,10284
+236,Canute Nounstinker,F,12/24/18,Engineering,Web,R4,Vali Silvertosser,Meets,16508
+237,Ragi Potsailor,F,11/8/17,Marketing & Sales,Sales,R3,Ketil Silverdrowner,Meets,16213
+238,Eyvindr Hornbaker,F,1/2/19,Engineering,iOS,R3,Henrik Twohead,Redefines,16427
+239,Throst Skygrowth,M,4/5/19,Design,Marketing,R1,Gisli Macekiller,Redefines,14007
+240,Prondir Battlebreeder,M,10/23/19,Design,Product,R5,Fromund Horncollar,Improvement needed,12107
+241,Poror Manborn,F,6/17/18,SG&A,Finance,R10,Prondir Bloodgrower,Redefines,9950
+242,Thorod Bloodbreeder,F,5/2/17,Engineering,Android,R4,Surt Haggisrhyme,Exceeds,11364
+243,Gizzur Kelpsinger,F,5/7/17,SG&A,HR,R7,Halbjorn Bluelicker,Meets,12069
+244,Bjorn Forgeboot,M,10/4/17,SG&A,Accounting,R2,Valgaror Bergbuilder,Improvement needed,9911
+245,Eyvind Ratmaker,M,2/2/17,SG&A,HR,R5,Valgaror Bergbuilder,Redefines,12496
+246,Thangbrand Spearleg,M,5/8/18,SG&A,Finance,R2,Vali Silvertosser,Redefines,9087
+247,Olaf Threebane,M,9/5/17,Engineering,Android,R4,Hallvard Unsightlytosser,Meets,12404
+248,Osvald Griffontongue,F,1/11/17,Marketing & Sales,Product Marketing,R10,Herjolfr Wavesinger,Improvement needed,15775
+249,Halbjorn Cavebrow,F,5/1/19,SG&A,Finance,R3,Herjolfr Wavesinger,Improvement needed,16557
+250,Sigvat Forgesequel,F,4/9/18,Engineering,iOS,R1,Halbjorn Bluelicker,Exceeds,9621
+251,Hogni Ravengrinder,F,1/17/18,Engineering,Web,R3,Throst Haggissniffer,Exceeds,10678
+252,Bjorn Ringdoubter,M,5/2/18,Engineering,Web,R9,Vigfus Kelpwielder,Redefines,13304
+253,Valgaror Mammothtosser,F,7/24/19,SG&A,HR,R9,Gjafvaldr Swinehacker,Exceeds,13067
+254,Poror Elktaster,F,12/23/17,Design,Product,R1,Arngrim Womanchiller,Improvement needed,15781
+255,Jimmy Dragongrim,M,12/22/18,Engineering,Web,R6,Herjolfr Forkadmirer,Redefines,13658
+256,Hamal Whiteslinger,M,12/12/17,Engineering,iOS,R8,Vigfus Horndancer,Redefines,10681
+257,Arnfinn Bonehunter,F,2/13/19,Engineering,Web,R8,Vali Silvertosser,Improvement needed,11563
+258,Gunnarr Bluedeck,F,4/5/19,Design,Strategy,R10,Vali Womandancer,Exceeds,11801
+259,Gorm Jarlleg,F,7/24/18,Design,Marketing,R3,Torix Tonguehall,Exceeds,10929
+260,Vika Hallhammer,F,3/3/18,Design,Product,R8,Hallvard Unsightlytosser,Improvement needed,15386
+261,Ozurr Waveroller,F,8/26/17,Marketing & Sales,Product Marketing,R6,Waltheof Ravenbender,Meets,16339
+262,Ornolf Bonedreamer,M,4/9/18,SG&A,Accounting,R5,Herjolfr Forkadmirer,Redefines,13404
+263,Vali Cavefriend,F,1/3/19,Marketing & Sales,Product Marketing,R7,Alvi Beararm,Meets,15538
+264,Jon Shieldfury,F,5/1/19,SG&A,Finance,R9,Moldof Bearhands,Exceeds,10922
+265,Solvi Mountaincollar,F,10/21/18,Marketing & Sales,Sales,R10,Helgi Frostbow,Improvement needed,9699
+266,Hamal Hamarrstinker,F,3/4/17,SG&A,Finance,R8,Vigfus Kelpwielder,Meets,9667
+267,Ivarr Bluesailor,F,2/25/17,SG&A,Accounting,R2,Kolbeinn Biscuitgrowth,Redefines,16608
+268,Hildir Noundancer,M,11/24/18,Engineering,Web,R7,Glumr Maelstromliker,Improvement needed,15170
+269,Hallvard Silvershield,F,3/6/20,Marketing & Sales,Advertising,R3,Saemund Runeliker,Meets,14334
+270,Sven Rootboiler,M,10/15/18,Marketing & Sales,Product Marketing,R1,Gisli Macekiller,Meets,16931
+271,Glumr Elkroller,F,7/20/17,Marketing & Sales,Advertising,R6,Gisli Macekiller,Exceeds,10488
+272,Knut Speargrowth,F,12/9/17,Engineering,Android,R9,Arngrim Womanchiller,Redefines,14033
+273,Poror Glaciergrim,F,9/15/17,Marketing & Sales,Advertising,R9,Arinbjorn Hornborn,Improvement needed,12577
+274,Sven Eelgrim,F,3/12/19,Design,Marketing,R8,Prondir Bloodgrower,Improvement needed,12873
+275,Olaf Kelpthigh,M,3/25/17,Engineering,Web,R3,Saemund Runeliker,Meets,12530
+276,Ivarr Refreshingbeveragedoubter,F,7/27/18,SG&A,Finance,R6,Throst Haggissniffer,Meets,10052
+277,Knut Godbow,M,2/25/18,Marketing & Sales,Sales,R9,Herjolfr Wavesinger,Exceeds,11429
+278,Njall Forgehacker,F,1/31/17,Engineering,Web,R5,Gjafvaldr Swinehacker,Improvement needed,13937
+279,Ormr Codescreamer,F,3/7/18,SG&A,Accounting,R6,Helgi Frostbow,Exceeds,10419
+280,Baror Steamsniffer,F,8/8/18,Engineering,Android,R8,Hallvard Unsightlytosser,Exceeds,15425
+281,Fromund Hamarrtongue,F,5/3/18,Design,Marketing,R5,Ivarr Sevenrage,Exceeds,10269
+282,Borkr Twolicker,M,6/26/17,Engineering,iOS,R8,Hrani Tonguesequel,Redefines,14149
+283,Sigurd Forkbrow,F,12/7/18,SG&A,HR,R6,Osvald Swordshield,Exceeds,16009
+284,Mursi Whitelost,F,1/20/19,Marketing & Sales,Advertising,R3,Thjodoft Sevenbreaker,Meets,15236
+285,Glumr Swordbow,F,8/28/17,Design,Marketing,R5,Waltheof Ravenbender,Meets,15153
+286,Kalf Mailminder,M,7/24/17,Marketing & Sales,Advertising,R3,Gorm Refreshingbeveragebringer,Meets,12061
+287,Halfdan Stonetamer,F,9/24/18,Design,Marketing,R6,Helgi Frostbow,Redefines,13539
+288,Vali Ulfsarkcounter,M,1/6/20,SG&A,Finance,R9,Glumr Foxkiller,Meets,13537
+289,Snorri Battleringer,F,4/3/19,SG&A,Finance,R1,Baror Kettleboot,Improvement needed,9965
+290,Siegfried Battledeck,F,12/24/17,Engineering,iOS,R3,Prondir Bloodgrower,Improvement needed,13257
+291,Kheldar Flourshoe,F,4/22/19,Design,Strategy,R7,Gisli Macekiller,Redefines,14229
+292,Bjorn Bladebreeder,F,5/6/17,Design,Marketing,R4,Kolbeinn Biscuitgrowth,Improvement needed,12383
+293,Harald Sapson,F,12/12/19,Engineering,Web,R10,Osvald Swordshield,Meets,14459
+294,An Bonehands,M,12/18/17,Design,Marketing,R4,Prondir Bloodgrower,Improvement needed,14689
+295,Geirmundr Sevensucker,F,2/16/18,Engineering,iOS,R5,Hildir Iceberglicker,Exceeds,11643
+296,Brandr Haggishugger,M,4/18/18,Marketing & Sales,Advertising,R4,Alfr Skyarm,Redefines,10477
+297,Saemund Bonehand,M,1/1/17,SG&A,Finance,R3,Arngrim Womanchiller,Meets,12965
+298,Hildir Ironrider,M,9/6/19,SG&A,Finance,R6,Moldof Bearhands,Meets,14834
+299,Jorund Swordsmasher,F,6/20/17,Engineering,iOS,R3,Hogni Deathroarer,Redefines,10325
+300,Vika Bonelover,M,1/23/17,Engineering,Web,R9,Glumr Foxkiller,Improvement needed,12894
+301,Finnr Caverhyme,F,1/14/19,Design,Strategy,R3,Thjodoft Sevenbreaker,Redefines,16484
+302,Floki Dragonfoot,F,7/8/17,Design,Marketing,R5,Herjolfr Wavesinger,Improvement needed,12898
+303,Eyvindr Huskarlsequel,M,6/29/18,Design,Marketing,R6,Eyvind Seahammer,Improvement needed,11866
+304,Halfdan Silverdrowner,F,12/27/18,Design,Marketing,R6,Prondir Bloodgrower,Exceeds,16407
+305,Hrani Chainson,M,1/19/19,SG&A,Finance,R5,Kolbeinn Biscuitgrowth,Exceeds,10623
+306,Eyvindr Fjordbringer,M,9/13/19,Marketing & Sales,Sales,R8,Alfr Skyarm,Improvement needed,9042
+307,Sigurd Kelpslinger,F,2/1/18,Engineering,Web,R8,Fromund Horncollar,Meets,9985
+308,Orlyg Battlecollar,M,1/9/18,Engineering,Android,R9,Thrain Lightbone,Improvement needed,12539
+309,Egill Meadchiller,F,8/5/17,SG&A,Accounting,R5,Hrani Tonguesequel,Improvement needed,10381
+310,Refr Sevengrinder,F,7/11/18,SG&A,Finance,R9,Einarr Muttonsword,Exceeds,11633
+311,Ragi Threewing,F,8/6/17,Marketing & Sales,Advertising,R2,Ari Wyvernbreeder,Meets,9212
+312,Torfi Blueblood,F,3/2/18,SG&A,Accounting,R6,Arngrim Womanchiller,Improvement needed,9393
+313,Ozurr Kelpbreeder,F,9/11/17,Engineering,iOS,R6,Prondir Bloodgrower,Improvement needed,9717
+314,Sigurd Huskarlbearer,M,7/17/17,Marketing & Sales,Product Marketing,R2,Gisli Macekiller,Exceeds,11616
+315,Asvald Hamarrhall,F,4/30/18,Engineering,iOS,R2,Ari Wyvernbreeder,Exceeds,12030
+316,Surt Huskarlrage,F,11/27/18,Design,Marketing,R3,Throst Haggissniffer,Meets,15219
+317,Arngrim Salmongrower,M,4/20/19,Marketing & Sales,Sales,R1,Hogni Deathroarer,Exceeds,12140
+318,Finnr Forkblade,F,12/15/17,Engineering,Android,R9,Hogni Deathroarer,Redefines,14127
+319,Fromund Hallthigh,F,9/24/19,Engineering,Web,R10,Gorm Refreshingbeveragebringer,Improvement needed,9425
+320,Cairn Onegrim,F,4/23/19,Engineering,Android,R5,Moldof Bearhands,Improvement needed,11946
+321,Hrani Shiphilt,M,10/7/19,Marketing & Sales,Sales,R2,Thangbrand Coffeesucker,Redefines,16128
+322,Prondir Bluetail,M,8/12/18,Design,Marketing,R3,Throst Flourwisher,Exceeds,13164
+323,Thorgest Squidleg,F,3/4/20,Marketing & Sales,Advertising,R1,Gorm Refreshingbeveragebringer,Redefines,11339
+324,Finnr Dwarfcurser,F,12/8/17,SG&A,Finance,R1,Kolbeinn Biscuitgrowth,Improvement needed,10163
+325,Magnus Spearhand,F,5/18/18,Engineering,Web,R7,Henrik Twohead,Meets,16111
+326,Eyvindr Valkyrieleg,F,12/20/19,Design,Product,R5,Bjarni Foxgrower,Redefines,11749
+327,Hamal Mountainboiler,F,11/5/17,Design,Product,R6,Erik Elkborer,Meets,10226
+328,Ragnvald Wavelicker,F,2/22/17,Marketing & Sales,Advertising,R7,Ari Wyvernbreeder,Exceeds,9710
+329,Glumr Hallhand,F,10/31/19,Marketing & Sales,Product Marketing,R2,Fromund Horncollar,Meets,16171
+330,Ivarr Tongueeater,F,3/15/19,SG&A,Finance,R2,Erik Elkborer,Redefines,10826
+331,Alvi Snowhammer,M,10/14/19,Marketing & Sales,Product Marketing,R6,Torix Tonguehall,Improvement needed,10247
+332,Arnfinn Axeroller,F,8/12/18,SG&A,Finance,R7,Arngrim Womanchiller,Redefines,16255
+333,Henrik Ravenhall,F,5/3/18,SG&A,HR,R3,Gisli Macekiller,Redefines,14569
+334,Arnfinn Ratbow,M,8/25/17,SG&A,Finance,R5,Hogni Deathroarer,Exceeds,9047
+335,Ormr Kelpgrower,F,5/25/18,Design,Strategy,R1,Alfr Skyarm,Redefines,12681
+336,Mursi Icebergsinger,F,7/16/19,Marketing & Sales,Sales,R3,Helgi Frostbow,Exceeds,11913
+337,Kolli Ringrhyme,M,8/20/18,Marketing & Sales,Advertising,R8,Halbjorn Bluelicker,Meets,14172
+338,Glumr Unsightlychaser,M,11/8/17,Design,Product,R10,Glumr Maelstromliker,Improvement needed,11176
+339,Jimmy Trolldrowner,F,9/16/18,SG&A,Accounting,R3,Waltheof Ravenbender,Redefines,12662
+340,Hedinn Goldsinger,M,9/21/17,Engineering,Android,R4,Thangbrand Coffeesucker,Exceeds,14024
+341,Valgaror Peakdrinker,F,12/1/18,SG&A,Accounting,R6,Vigfus Kelpwielder,Exceeds,12926
+342,Sigmundr Swinefearer,M,2/8/19,Engineering,Web,R9,Hogni Deathroarer,Meets,14784
+343,Hallvard Potdancer,M,1/13/18,SG&A,Finance,R10,Ivarr Sevenrage,Redefines,13896
+344,Hamundr Redgrinder,M,1/1/18,Engineering,Web,R1,Vigfus Horndancer,Redefines,12871
+345,Olaf Aesirgorer,M,8/3/17,Marketing & Sales,Sales,R8,Torix Tonguehall,Redefines,10670
+346,Jorund Fjorddreamer,F,4/23/18,Design,Marketing,R8,Hrani Wyvernstinker,Redefines,16259
+347,Grmir Slushchiller,M,7/11/18,Engineering,Web,R7,Moldof Bearhands,Meets,11697
+348,Sokkolf Stonetracker,F,11/27/18,Engineering,iOS,R10,Ketil Silverdrowner,Meets,10482
+349,Ari Ironneck,F,3/7/17,SG&A,Finance,R3,Throst Flourwisher,Exceeds,12470
+350,Jon Trollfoot,F,5/28/17,Design,Product,R2,Hallvard Unsightlytosser,Exceeds,14251
+351,Harald Helmdeck,F,11/2/17,SG&A,HR,R8,Thangbrand Coffeesucker,Meets,9952
+352,Brandr Fjorddrowner,F,5/11/18,Engineering,Android,R5,Alfr Skyarm,Exceeds,14524
+353,Bjorn Eelgrinder,F,7/14/18,Design,Marketing,R10,Gisli Macekiller,Improvement needed,12941
+354,Tryfing Lightbuilder,F,2/25/19,Engineering,Android,R8,Glumr Foxkiller,Meets,10419
+355,Kalf Torchlicker,M,1/5/18,SG&A,HR,R4,Arinbjorn Hornborn,Exceeds,14773
+356,Helgi Nounslinger,F,4/1/19,SG&A,HR,R9,Einarr Muttonsword,Redefines,11485
+357,Floki Womanbreaker,F,8/29/17,Design,Marketing,R3,Hrani Tonguesequel,Improvement needed,15531
+358,Erik Goldwisher,F,9/16/18,Marketing & Sales,Product Marketing,R1,Torix Tonguehall,Improvement needed,16135
+359,Brandr Stormhugger,F,1/15/20,Engineering,Android,R10,Baror Kettleboot,Meets,11416
+360,Herbjorn Ironborn,M,6/19/17,Engineering,Android,R9,Einarr Muttonsword,Improvement needed,15711
+361,Bersi Lighttail,M,8/17/17,Engineering,Android,R7,Baror Kettleboot,Redefines,9796
+362,Refr Coffeedreamer,M,2/28/17,Design,Marketing,R3,Valgaror Bergbuilder,Exceeds,15197
+363,Ozurr Griffondreamer,F,1/4/17,Design,Marketing,R4,Vali Silvertosser,Exceeds,10759
+364,Halbjorn Salmonshoe,F,4/3/17,SG&A,Accounting,R10,Vigfus Kelpwielder,Improvement needed,13716
+365,Hedinn Eggroarer,F,9/21/17,Marketing & Sales,Advertising,R8,Osvald Swordshield,Improvement needed,16636
+366,Asvald Boneson,F,4/18/19,Engineering,Web,R6,Henrik Twohead,Meets,13848
+367,Gizzur Halldottir,M,1/16/19,SG&A,HR,R1,Geri Bladedoubter,Improvement needed,12504
+368,Arnfinn Fjordbearer,F,9/4/18,SG&A,HR,R1,Moldof Bearhands,Redefines,10755
+369,Eyvind Refreshingbeverageroarer,F,6/12/19,Marketing & Sales,Product Marketing,R5,Thangbrand Coffeesucker,Improvement needed,13128
+370,Arngrim Deathblade,F,2/25/17,Engineering,iOS,R4,Glumr Maelstromliker,Exceeds,9251
+371,Geirmundr Umlauthand,M,7/15/18,Engineering,Web,R5,Hildir Iceberglicker,Exceeds,10053
+372,Poror Umlauthead,F,2/11/18,Marketing & Sales,Sales,R5,Prondir Bloodgrower,Redefines,9689
+373,Baror Onebreeder,F,12/19/17,Engineering,iOS,R1,Gisli Macekiller,Redefines,15383
+374,Ornolf Trollface,F,5/12/18,SG&A,Finance,R9,Torix Tonguehall,Exceeds,11096
+375,Kalf Squidmonger,M,12/27/18,Design,Marketing,R5,Fromund Horncollar,Meets,12328
+376,Bersi Steampuncher,F,11/29/17,Engineering,Web,R4,Halbjorn Bluelicker,Meets,16957
+377,Bard Hallear,F,3/2/17,Marketing & Sales,Product Marketing,R3,Alvi Beararm,Meets,13956
+378,Saemund Umlauteater,M,4/25/18,Design,Product,R9,Thangbrand Coffeesucker,Meets,16247
+379,Hak Silveradmirer,F,11/30/18,SG&A,Finance,R3,Hallvard Unsightlytosser,Improvement needed,16057
+380,Torfi Bergslugger,F,9/16/18,Marketing & Sales,Advertising,R6,Thrain Lightbone,Improvement needed,14763
+381,Ornolf Oathdrowner,F,2/19/20,Engineering,Android,R7,Gisli Macekiller,Redefines,13773
+382,Canute Househammer,F,8/20/17,SG&A,Finance,R5,Bjarni Foxgrower,Meets,10534
+383,Hedinn Hornhall,F,3/30/19,Marketing & Sales,Advertising,R8,Bjarni Foxgrower,Improvement needed,15477
+384,Thangbrand Sevenboot,F,8/31/17,SG&A,Accounting,R4,Fromund Horncollar,Exceeds,14911
+385,Ragnvald Ulfsarkborer,M,10/24/17,Engineering,iOS,R3,Ari Wyvernbreeder,Exceeds,14851
+386,Hogni Shipmender,F,10/13/19,Design,Strategy,R1,Ketil Silverdrowner,Improvement needed,9126
+387,Siegfried Hamarrchiller,F,1/25/19,Engineering,Web,R8,Thrain Lightbone,Exceeds,12127
+388,Finnr Bladechiller,F,9/30/19,Design,Product,R2,Prondir Bloodgrower,Exceeds,12133
+389,Olaf Rockhunter,F,2/8/17,SG&A,HR,R6,Herjolfr Wavesinger,Exceeds,10883
+390,Vigfus Bearhammer,F,4/20/18,Marketing & Sales,Product Marketing,R7,Kolbeinn Biscuitgrowth,Improvement needed,11373
+391,Eyvind Steamadmirer,F,4/20/19,Engineering,Web,R10,Gjafvaldr Swinehacker,Improvement needed,16134
+392,Thorgest Horncurser,F,4/7/17,Marketing & Sales,Sales,R9,Ari Wyvernbreeder,Exceeds,9383
+393,Torix Sapdreamer,F,1/26/17,Marketing & Sales,Sales,R6,Arinbjorn Hornborn,Improvement needed,14771
+394,Siegfried Ulfsarkcounter,M,2/22/19,Design,Marketing,R10,Torix Tonguehall,Exceeds,9759
+395,Skeggi Forkfriend,M,4/15/18,Marketing & Sales,Product Marketing,R4,Thrain Lightbone,Improvement needed,11987
+396,Moldof Grimsniffer,M,1/10/20,SG&A,Finance,R5,Erik Elkborer,Meets,15192
+397,Slode Owltracker,F,11/21/17,Marketing & Sales,Advertising,R3,Throst Flourwisher,Improvement needed,16775
+398,Asgeirr Bluebaker,M,1/29/18,Engineering,Web,R8,Arinbjorn Biscuitdrowner,Redefines,14211
+399,Jorund Manybuilder,F,1/7/17,Design,Marketing,R10,Baror Kettleboot,Improvement needed,13421
+400,Waltheof Ulfsarkstinker,F,10/9/19,Marketing & Sales,Product Marketing,R9,Valgaror Bergbuilder,Exceeds,12113
+401,Sokkolf Shipthigh,F,2/16/18,SG&A,Accounting,R3,Halbjorn Bluelicker,Meets,13573
+402,Harek Peakborn,F,6/9/17,Marketing & Sales,Product Marketing,R10,Fromund Horncollar,Meets,16887
+403,Hallvard Seawrath,F,6/8/19,Engineering,Android,R7,Herjolfr Wavesinger,Improvement needed,10527
+404,Vifil Smokemaker,F,3/30/18,Marketing & Sales,Sales,R5,Einarr Muttonsword,Exceeds,16292
+405,An Giantsailor,M,8/24/17,Design,Marketing,R3,Waltheof Ravenbender,Exceeds,13807
+406,Magnus Icebergshield,M,7/2/17,Marketing & Sales,Sales,R8,Einarr Muttonsword,Improvement needed,11523
+407,Hrani Forklicker,M,2/20/18,SG&A,Accounting,R9,Halbjorn Bluelicker,Improvement needed,12362
+408,Skomlr Foxtail,F,5/11/19,SG&A,Finance,R8,Vigfus Kelpwielder,Improvement needed,9388
+409,Solvi Stonemender,M,2/24/19,Engineering,Web,R9,Hogni Deathroarer,Improvement needed,15334
+410,Vali Horserhyme,F,2/18/19,Marketing & Sales,Sales,R7,Hallvard Unsightlytosser,Exceeds,15617
+411,Kheldar Steammonger,F,7/21/18,Marketing & Sales,Sales,R10,Kheldar Shieldbuilder,Improvement needed,12567
+412,Surt Iciclestinker,F,8/31/17,Engineering,Web,R8,Valgaror Bergbuilder,Redefines,15261
+413,An Bladelicker,F,2/23/18,SG&A,Accounting,R2,Torix Tonguehall,Exceeds,9706
+414,Eyvind Stonerider,M,4/20/17,Design,Strategy,R9,Halbjorn Bluelicker,Redefines,15573
+415,Ari Dragonwing,F,3/19/18,Design,Marketing,R3,Alvi Beararm,Exceeds,12693
+416,Glumr Rootbringer,F,3/6/20,SG&A,HR,R6,Vali Silvertosser,Improvement needed,12474
+417,Ivarr Bloodcurser,F,3/22/18,Design,Strategy,R5,Alfr Skyarm,Meets,14500
+418,Refr Smokehunter,F,6/19/18,Design,Product,R3,Valgaror Bergbuilder,Improvement needed,12181
+419,Throst Nounchaser,F,8/14/18,Engineering,iOS,R5,Hrani Wyvernstinker,Redefines,12560
+420,Herjolfr Rootstinker,F,10/3/17,Design,Marketing,R3,Hrani Wyvernstinker,Redefines,10659
+421,Thangbrand Huskarladmirer,F,11/1/19,Engineering,Web,R8,Thrain Lightbone,Improvement needed,12713
+422,Saemund Icebergbone,M,5/14/19,Marketing & Sales,Sales,R5,Alfr Skyarm,Redefines,13563
+423,Fromund Shipgrim,M,3/16/18,Marketing & Sales,Sales,R6,Gorm Refreshingbeveragebringer,Exceeds,16144
+424,Thrain Horsebane,M,2/17/19,Marketing & Sales,Product Marketing,R6,Saemund Runeliker,Meets,13876
+425,Kolbeinn Squidroarer,F,5/27/18,Engineering,Android,R7,Surt Haggisrhyme,Redefines,9651
+426,Baror Bearhall,M,1/28/20,Marketing & Sales,Advertising,R10,Arinbjorn Hornborn,Improvement needed,15493
+427,Hamal Swinetamer,F,3/28/18,Marketing & Sales,Advertising,R7,Throst Haggissniffer,Redefines,11163
+428,Halfdan Ravenchaser,M,4/30/18,Engineering,Android,R3,Halbjorn Bluelicker,Exceeds,11733
+429,Thorgest Tonguesailor,M,1/26/19,SG&A,HR,R8,Herjolfr Wavesinger,Meets,14852
+430,Poror Kettleroller,F,11/27/19,Design,Strategy,R9,Ari Wyvernbreeder,Improvement needed,10463
+431,Thorod Bladedeck,M,4/7/19,Engineering,Android,R6,Hallvard Unsightlytosser,Exceeds,10171
+432,Runolf Pinechiller,M,7/18/17,SG&A,HR,R5,Hrani Tonguesequel,Improvement needed,13734
+433,Thangbrand Bearlicker,M,9/30/19,Design,Product,R7,Thangbrand Coffeesucker,Meets,13183
+434,Arinbjorn Flamegrower,F,10/20/17,SG&A,Accounting,R7,Eyvind Seahammer,Redefines,14686
+435,Geirmundr Hallwing,M,5/2/18,Design,Strategy,R4,Prondir Sevenwasher,Exceeds,14972
+436,Eirik Forgeleg,F,1/13/17,Engineering,iOS,R7,Bjarni Foxgrower,Redefines,9607
+437,Surt Owlbreaker,F,4/26/19,SG&A,Finance,R10,Arinbjorn Biscuitdrowner,Exceeds,10851
+438,Ragi Biscuitcounter,F,10/6/19,Marketing & Sales,Advertising,R1,Hogni Deathroarer,Exceeds,12308
+439,Hildir Lakewing,F,10/17/18,Engineering,iOS,R2,Valgaror Bergbuilder,Exceeds,12741
+440,Alfr Lighthall,F,5/8/19,Engineering,iOS,R2,Moldof Bearhands,Improvement needed,11510
+441,Mursi Bluegrowth,M,1/28/18,Engineering,iOS,R7,Kolbeinn Biscuitgrowth,Meets,9430
+442,Sigvat Valkyriescreamer,M,4/20/18,Marketing & Sales,Sales,R9,Herjolfr Forkadmirer,Meets,9625
+443,Bard Huskarlserver,F,11/25/18,Design,Product,R9,Glumr Foxkiller,Meets,11795
+444,Thangbrand Squidtracker,F,7/16/19,Marketing & Sales,Sales,R8,Thangbrand Coffeesucker,Improvement needed,12013
+445,Mursi Unsightlydrinker,F,4/11/19,Engineering,Web,R10,Vigfus Horndancer,Meets,12259
+446,Saemund Stonegrinder,F,1/14/17,SG&A,Finance,R4,Arinbjorn Biscuitdrowner,Redefines,11711
+447,Siegfried Womanfriend,F,1/4/18,SG&A,Finance,R9,Alvi Beararm,Improvement needed,14795
+448,Sven Shieldbone,F,4/15/17,Design,Strategy,R1,Gisli Macekiller,Improvement needed,12733
+449,nar Pinesword,M,12/1/19,Marketing & Sales,Sales,R3,Eyvind Seahammer,Exceeds,11012
+450,Harek Seaaxe,F,9/18/17,SG&A,HR,R10,Bjarni Foxgrower,Exceeds,10728
+451,Alfr Mammothstinker,M,3/1/17,Engineering,Web,R8,Fromund Horncollar,Exceeds,13083
+452,Ragnvald Nounhacker,F,12/28/17,Marketing & Sales,Product Marketing,R6,Throst Flourwisher,Improvement needed,15858
+453,Henrik Cavedrinker,M,6/17/17,Design,Strategy,R8,Fromund Horncollar,Exceeds,11575
+454,Osvald Spearchiller,M,6/19/18,Engineering,iOS,R2,Hallvard Unsightlytosser,Improvement needed,10956
+455,Arnfinn Rockchiller,F,4/27/18,Marketing & Sales,Product Marketing,R9,Halbjorn Bluelicker,Exceeds,13572
+456,Askell Mountainchiller,F,1/23/19,Design,Marketing,R8,Osvald Swordshield,Meets,9569
+457,Solvi Boardhilt,F,1/24/17,SG&A,Finance,R4,Gisli Macekiller,Meets,10573
+458,Sigvat Lightdreamer,F,5/29/18,Engineering,iOS,R10,Fromund Horncollar,Exceeds,16234
+459,Sokkolf Swordear,M,3/19/18,SG&A,Finance,R2,Henrik Twohead,Improvement needed,9765
+460,Jon Tonguebreaker,M,2/23/20,SG&A,Accounting,R10,Thangbrand Coffeesucker,Improvement needed,12391
+461,Refr Chainhilt,M,8/7/19,Marketing & Sales,Sales,R5,Thangbrand Coffeesucker,Exceeds,11127
+462,nar Biscuitwielder,F,12/15/17,Engineering,Web,R6,Herjolfr Wavesinger,Exceeds,11656
+463,Olaf Forgebeard,M,1/28/17,Design,Product,R1,Arinbjorn Biscuitdrowner,Redefines,9621
+464,Guomundr Rabbithands,M,5/29/19,Engineering,Android,R2,Throst Haggissniffer,Exceeds,13011
+465,Vali Wolfhilt,F,10/25/17,SG&A,HR,R5,Kolbeinn Biscuitgrowth,Exceeds,15410
+466,Ulf Forgechiller,M,5/25/17,Engineering,iOS,R2,Torix Tonguehall,Improvement needed,12328
+467,Alvi Cheesetracker,F,6/4/18,Marketing & Sales,Advertising,R5,Valgaror Bergbuilder,Meets,9611
+468,Moldof Mansequel,M,8/5/17,Engineering,Web,R9,Baror Kettleboot,Improvement needed,16735
+469,Ormr Potblender,M,11/1/17,Engineering,Web,R5,Erik Elkborer,Redefines,15792
+470,Ivarr Axebringer,F,2/24/20,Engineering,Android,R1,Bjarni Foxgrower,Meets,16933
+471,Borkr Rootbuilder,M,8/22/19,Design,Product,R4,Prondir Bloodgrower,Meets,10576
+472,Torfi Kettletosser,M,8/18/18,SG&A,Finance,R1,Ivarr Sevenrage,Redefines,9905
+473,Brand Bluewasher,M,11/13/19,Design,Strategy,R1,Gisli Macekiller,Meets,15960
+474,Solvi Umlautsailor,F,7/6/18,SG&A,Finance,R3,Prondir Sevenwasher,Exceeds,14018
+475,Gizzur Boarwrath,M,7/17/17,SG&A,Accounting,R9,Thjodoft Sevenbreaker,Improvement needed,12321
+476,Vifil Flourhilt,M,7/2/17,Marketing & Sales,Advertising,R5,Herjolfr Wavesinger,Improvement needed,11349
+477,Fromund Fjordwing,F,4/30/18,Design,Marketing,R3,Gjafvaldr Swinehacker,Improvement needed,13260
+478,Vifil Foxeater,F,3/23/18,SG&A,Accounting,R10,Waltheof Ravenbender,Improvement needed,12572
+479,Saemund Seathigh,F,6/4/18,Engineering,Android,R6,Arinbjorn Hornborn,Exceeds,14508
+480,Egill Skygrim,F,2/21/20,SG&A,Finance,R9,Ivarr Sevenrage,Meets,15314
+481,Arnfinn Unsightlyroller,F,9/13/17,Engineering,iOS,R5,Moldof Bearhands,Meets,16784
+482,Thjodoft Silverstinker,F,6/23/18,SG&A,HR,R10,Vigfus Horndancer,Exceeds,12148
+483,An Trollbuilder,M,9/8/18,Design,Strategy,R5,Alfr Skyarm,Improvement needed,11249
+484,Hogni Umlautminder,F,2/2/18,Engineering,iOS,R6,Prondir Sevenwasher,Meets,16279
+485,Orlyg Lighthacker,F,2/12/17,SG&A,Accounting,R7,Geri Bladedoubter,Redefines,10679
+486,Vali Krakenblender,F,2/24/17,SG&A,Accounting,R6,Ketil Silverdrowner,Redefines,13705
+487,Herbjorn Dwarfminder,F,10/21/18,Engineering,Android,R3,Moldof Bearhands,Improvement needed,12842
+488,Grmir Rockfriend,F,10/6/19,Design,Strategy,R1,Arinbjorn Biscuitdrowner,Meets,13097
+489,Sokkolf Bloodfury,F,1/20/17,Marketing & Sales,Product Marketing,R10,Herjolfr Forkadmirer,Exceeds,15269
+490,Grmir Forgewisher,F,10/3/17,Design,Marketing,R5,Geri Bladedoubter,Improvement needed,14657
+491,Siegfried Umlautboot,F,7/23/19,Marketing & Sales,Sales,R6,Fromund Horncollar,Meets,15147
+492,Orlyg Bladeringer,F,6/28/19,Design,Product,R5,Bjarni Foxgrower,Exceeds,9799
+493,Olaf Wavedoubter,F,12/22/19,Design,Marketing,R4,Gjafvaldr Swinehacker,Redefines,16457
+494,Surt Wolfmocker,F,1/25/19,Engineering,Android,R7,Geri Bladedoubter,Exceeds,11513
+495,Thorgest Wormtamer,F,9/30/18,SG&A,HR,R7,Einarr Muttonsword,Improvement needed,12215
+496,Gorm Mountainhugger,F,4/12/17,Design,Product,R10,Prondir Sevenwasher,Exceeds,13742
+497,Kolli Muttonear,F,7/5/17,Marketing & Sales,Product Marketing,R8,Hallvard Unsightlytosser,Meets,14601
+498,Hogni Elkmocker,M,6/25/19,Design,Product,R7,Bjarni Foxgrower,Meets,9512
+499,Engli Skyface,M,8/10/19,Design,Marketing,R3,Thangbrand Coffeesucker,Redefines,10531
+500,Ornolf Redwing,F,9/27/17,Design,Marketing,R10,Thrain Lightbone,Improvement needed,9988

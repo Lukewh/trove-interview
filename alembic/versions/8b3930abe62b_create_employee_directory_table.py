@@ -19,7 +19,7 @@ depends_on = None
 def upgrade():
     op.create_table(
         'employee_directory',
-        sa.Column('eid', sa.Integer, primary_key=True),
+        sa.Column('eid', sa.Integer, primary_key=True, index=True),
         sa.Column('name', sa.Unicode(255), nullable=False),
         sa.Column('gender', sa.String(1), nullable=False),
         sa.Column('hire_date', sa.Date, nullable=False),
