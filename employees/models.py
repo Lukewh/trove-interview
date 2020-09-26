@@ -14,7 +14,7 @@ class EmployeeDirectory(Base):
     hire_date = Column(Date, nullable=False)
     department = Column(Unicode(255), nullable=False)
     division = Column(Unicode(255), nullable=False)
-    jobcode = Column(Unicode(255), nullable=False)
+    job_code = Column(Unicode(255), nullable=False)
     manager = Column(Unicode(255), nullable=False)
     performance = Column(Unicode(255), nullable=False)
     annual_benefits_value = Column(Unicode(255), nullable=False)

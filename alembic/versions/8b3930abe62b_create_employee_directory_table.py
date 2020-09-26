@@ -25,7 +25,7 @@ def upgrade():
         sa.Column('hire_date', sa.Date, nullable=False),
         sa.Column('department', sa.Unicode(255), nullable=False),
         sa.Column('division', sa.Unicode(255), nullable=False),
-        sa.Column('jobcode', sa.Unicode(255), nullable=False),
+        sa.Column('job_code', sa.Unicode(255), nullable=False),
         sa.Column('manager', sa.Unicode(255), nullable=False),
         sa.Column('performance', sa.Unicode(255), nullable=False),
         sa.Column('annual_benefits_value', sa.Unicode(255), nullable=False),
