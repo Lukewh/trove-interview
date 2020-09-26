@@ -1,4 +1,6 @@
 Amazon Wage Portal
+==========
+![splash](https://github.com/theleastinterestingcoder/trove-interview/blob/master/screenshot-splash.png)
 
 
 Setting up the virtual environment:
