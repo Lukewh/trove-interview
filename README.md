@@ -2,6 +2,9 @@ Amazon Wage Portal
 ==========
 ![splash](https://github.com/theleastinterestingcoder/trove-interview/blob/master/screenshot-splash.png)
 
+Architecture
+-----------
+![diagram](https://github.com/theleastinterestingcoder/trove-interview/blob/master/diagram.png)
 
 Setting up the virtual environment:
 ------
