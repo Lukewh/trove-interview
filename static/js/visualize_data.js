@@ -4,7 +4,7 @@
     function drawBoxPlot() {
 
       var array = [
-        ['a', 100, 90, 110, 85, 96, 104, 120],
+        ['a', 100, 90, 110, 60, 96, 104, 120],
         ['b', 120, 95, 130, 90, 113, 124, 140],
         ['c', 130, 105, 140, 100, 117, 133, 139],
         ['d', 90, 85, 95, 85, 88, 92, 95],
@@ -87,7 +87,7 @@
       }
 
       var options = {
-          title:'Box Plot',
+          title:'Compensation by Gender',
           height: 500,
           legend: {position: 'none'},
           hAxis: {
