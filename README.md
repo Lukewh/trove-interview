@@ -17,7 +17,7 @@ Decisions and forward architecture:
 * **Middle layer and app** - I chose flask w/ python3 for simplicity over django for serving requests. The rest is pretty standard python: SQL alchemy as my ORM and alembic for data/schema migrations.
 * **Persistence** - MySQL RDMS for simplicity (I also know this like the back of my hand)*
 
-(*) Note: I actually wanted to pick redshift/snowflake/bigquery since these database engines are columnar stores, which are highly efficient for analyzing business data at scale. There's also a very nice extension to this architecture where providing normalized data as a service back to our partner allows them to use Trove for answering questions about their data that we haven't figured out yet. (e.g. here's the username/password to your clean and normalized data - have fun!)
+(*) Note: I actually wanted to pick redshift/snowflake/bigquery since these database engines are columnar stores, which are highly efficient for analyzing business data at scale. Then we don't have to spend time on optimizing queries (e.g. constructing indexes, etc).
 
 What I would work on next given then time:
 - Write more business logic to grab and visualize data more efficiently
