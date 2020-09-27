@@ -15,8 +15,8 @@ session = session_maker()
 def hello_world():
     return render_template('index.html')
 
-@app.route('/gender_analysis')
-def get_gender_analysis():
+@app.route('/analysis')
+def get_analysis():
     data = get_salary_data()
     return jsonify(data)
 

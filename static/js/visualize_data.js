@@ -3,7 +3,7 @@
 
     function drawBoxPlot() {
       request = $.ajax({
-        url: '/gender_analysis',
+        url: '/analysis',
         async: false
       });
 
